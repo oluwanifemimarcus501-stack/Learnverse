@@ -1,0 +1,6 @@
+{
+  "name": "LearnVerse - Interactive AI Academy",
+  "description": "An immersive educational platform featuring curated multi-disciplinary courses, instant AI course generation, interactive quizzes, and an intelligent AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
